@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Blur-O-Matic</string>
+
+    <!-- Buttons -->
+    <string name="select_image">Select Image</string>
+    <string name="go">Go</string>
+    <string name="finish">Finish</string>
+    <string name="again">Again</string>
+    <string name="edit">Edit</string>
+
+    <string name="description_image">The image to blur and save.</string>
+
+    <string name="set_permissions_in_settings">Go to Settings -> Apps and Notifications ->
+        WorkManager Demo -> App Permissions and grant access to Storage.</string>
+
+    <string name="dummy_content">Blur-O\nMatic</string>
+    <string name="saving_your_time_and_money">Saving your time and money..</string>
+
+</resources>
